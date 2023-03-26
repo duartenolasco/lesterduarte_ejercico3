@@ -1,0 +1,3 @@
+C:/Users/leste/OneDrive/Escritorio/examencorto/cmake-build-debug/CMakeFiles/examencorto.dir
+C:/Users/leste/OneDrive/Escritorio/examencorto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leste/OneDrive/Escritorio/examencorto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
